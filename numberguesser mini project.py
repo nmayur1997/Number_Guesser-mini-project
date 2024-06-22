@@ -1,13 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
 
 
 import random
 
 
-# In[2]:
 
 
 top_of_range = input('Type a number: ')
@@ -51,7 +46,6 @@ print('You got it in ', str(guesses), 'guesses')
      
 
 
-# In[ ]:
 
 
 
